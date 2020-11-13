@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "264381200326",
+    "firebase_url": "https://revit-f67b2.firebaseio.com",
+    "project_id": "revit-f67b2",
+    "storage_bucket": "revit-f67b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264381200326:android:11c3f25e8fb34780cfa4c7",
+        "android_client_info": {
+          "package_name": "com.example.revit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264381200326-ljjj98upt1c81m1sg75309ccvpp6e176.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.revit",
+            "certificate_hash": "a02d7066ab65bdcd09294df179a95fd6a3a7e078"
+          }
+        },
+        {
+          "client_id": "264381200326-gb7ulgvfacb2tcruhpos42onjuki7rhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkkGMAUCpMceRFPX3Dg--wASXjkxCGhd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264381200326-gb7ulgvfacb2tcruhpos42onjuki7rhu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "264381200326-rr5bccs8p1bka3ektlisudo3hbt1qr0i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hanneforth.revit"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264381200326:android:d870be17ddb2e0e7cfa4c7",
+        "android_client_info": {
+          "package_name": "com.hanneforth.revit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264381200326-282dgrvn3badfjkt8p6vt3usfe5oscei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hanneforth.revit",
+            "certificate_hash": "a02d7066ab65bdcd09294df179a95fd6a3a7e078"
+          }
+        },
+        {
+          "client_id": "264381200326-gb7ulgvfacb2tcruhpos42onjuki7rhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkkGMAUCpMceRFPX3Dg--wASXjkxCGhd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264381200326-gb7ulgvfacb2tcruhpos42onjuki7rhu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "264381200326-rr5bccs8p1bka3ektlisudo3hbt1qr0i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hanneforth.revit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

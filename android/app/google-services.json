@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "264381200326",
+    "firebase_url": "https://revit-f67b2.firebaseio.com",
+    "project_id": "revit-f67b2",
+    "storage_bucket": "revit-f67b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264381200326:android:d870be17ddb2e0e7cfa4c7",
+        "android_client_info": {
+          "package_name": "com.hanneforth.revit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264381200326-cuiscftmk9lkhvhbr8ji9rr9d3vhgjt5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hanneforth.revit",
+            "certificate_hash": "482ecbd55bd39dae24502eaf0f2718557addd49a"
+          }
+        },
+        {
+          "client_id": "264381200326-7bdvhnsic65e9pdkgb20om1ssokb0233.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hanneforth.revit",
+            "certificate_hash": "2e0c173c0bb4f242a4b26cc8bb3994dcaef37a13"
+          }
+        },
+        {
+          "client_id": "264381200326-282dgrvn3badfjkt8p6vt3usfe5oscei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hanneforth.revit",
+            "certificate_hash": "a02d7066ab65bdcd09294df179a95fd6a3a7e078"
+          }
+        },
+        {
+          "client_id": "264381200326-gb7ulgvfacb2tcruhpos42onjuki7rhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkkGMAUCpMceRFPX3Dg--wASXjkxCGhd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264381200326-gb7ulgvfacb2tcruhpos42onjuki7rhu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "264381200326-aknl057tkmo61bsirirp1drqavjsheg0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hanneforth.example"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
