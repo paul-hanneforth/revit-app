@@ -4,6 +4,7 @@ import 'package:revit/pages/ranklist_page.dart';
 import 'package:revit/pages/rate_page.dart';
 import 'package:revit/pages/upload_page.dart';
 import 'package:revit/utils/analytics.dart';
+import 'package:revit/utils/server.dart';
 
 class HomePage extends StatefulWidget {
 
@@ -51,6 +52,7 @@ class HomePageState extends State<HomePage> {
     super.initState();
 
     analyticsSetCurrentScreen("home_page");
+    updateProfilesLastSeen(widget.idToken);
 
     gotoProfilePage = widget.gotoProfilePage;
 

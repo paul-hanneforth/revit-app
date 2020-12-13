@@ -190,6 +190,19 @@ Future<ProfileResponse> fetchProfile(String idToken, [String profileId]) async {
   return profileResponse;
 
 }
+Future<Response> updateProfilesLastSeen(String idToken) async {
+
+  final response = await fetch("$serverAddress/profile/lastSeen", {
+    "idToken": idToken,
+  });
+  final formattedResponse = new Response(
+    error: response["error"] == false ? false : true,
+    message: response["error"] == false ? response["message"] : response["error"]["message"]
+  );
+
+  return formattedResponse;
+
+}
 Future<Response> addProfile(String idToken, String name, String username) async {
 
   final response = await fetch("$serverAddress/profile/add", {
